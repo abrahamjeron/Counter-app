@@ -14,7 +14,7 @@ class clickHandle extends Component{
     }
     clickHandler2 = ()=>{
         this.setState({
-            count :this.state.count -1
+            count :this.state.count - 1
         })
     }
     clickHandler3 = ()=>{
